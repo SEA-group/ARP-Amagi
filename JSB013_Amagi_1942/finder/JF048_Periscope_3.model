@@ -1,0 +1,7 @@
+<JF048_Periscope_3.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/finder/lods/JF048_Periscope_3_lod1	</parent>
+	<extent>	5.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/finder/JF048_Periscope_3	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JF048_Periscope_3.model>

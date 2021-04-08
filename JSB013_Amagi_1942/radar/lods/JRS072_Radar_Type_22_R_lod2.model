@@ -1,0 +1,17 @@
+<JRS072_Radar_Type_22_R_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/radar/lods/JRS072_Radar_Type_22_R_lod3	</parent>
+	<extent>	15.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/radar/lods/JRS072_Radar_Type_22_R_lod2	</nodefullVisual>
+	<animation>
+		<name>	JRS072_Radar_Type_22_R	</name>
+		<frameRate>	10.0000	</frameRate>
+		<nodes>	content/animation/common/JRS072_Radar_Type_22_R	</nodes>
+	</animation>
+	<action>
+		<name>	idle	</name>
+		<animation>	JRS072_Radar_Type_22_R	</animation>
+		<filler>	true	</filler>
+	</action>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JRS072_Radar_Type_22_R_lod2.model>

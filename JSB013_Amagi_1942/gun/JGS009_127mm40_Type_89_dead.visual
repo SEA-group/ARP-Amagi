@@ -1,0 +1,38 @@
+<JGS009_127mm40_Type_89_dead.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+		</transform>
+		<node>
+			<identifier>	Turret_dead	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Turret_dead	</node>
+		<geometry>
+			<vertices>	Turret_deadShape.vertices	</vertices>
+			<primitive>	Turret_deadShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_GunDead	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/gun/JGS009_127mm40_Type_89_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.1404 -0.0076 -0.1659	</min>
+		<max>	0.1400 0.2220 0.2981	</max>
+	</boundingBox>
+</JGS009_127mm40_Type_89_dead.visual>

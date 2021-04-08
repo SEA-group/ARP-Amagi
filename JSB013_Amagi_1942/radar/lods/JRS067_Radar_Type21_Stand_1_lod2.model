@@ -1,0 +1,16 @@
+<JRS067_Radar_Type21_Stand_1_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/radar/lods/JRS067_Radar_Type21_Stand_1_lod3	</parent>
+	<extent>	25.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/radar/lods/JRS067_Radar_Type21_Stand_1_lod2	</nodefullVisual>
+	<animation>
+		<name>	Rotation2rpm	</name>
+		<frameRate>	30.0000	</frameRate>
+		<nodes>	content/animation/common/Rotation2rpm	</nodes>
+	</animation>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation2rpm	</animation>
+	</action>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JRS067_Radar_Type21_Stand_1_lod2.model>

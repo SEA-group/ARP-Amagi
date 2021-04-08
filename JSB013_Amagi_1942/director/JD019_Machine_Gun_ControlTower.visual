@@ -1,0 +1,61 @@
+<JD019_Machine_Gun_ControlTower.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+		</transform>
+		<node>
+			<identifier>	ControlTower	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+			<node>
+				<identifier>	MachineGun	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	ControlTower	</node>
+		<geometry>
+			<vertices>	ControlTowerShape.vertices	</vertices>
+			<primitive>	ControlTowerShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/director/JD019_Machine_Gun_ControlTower.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MachineGun	</node>
+		<geometry>
+			<vertices>	MachineGunShape.vertices	</vertices>
+			<primitive>	MachineGunShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMATX_PBS_Director1	</identifier>
+					<mfm>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/director/JD056_MachineGun_Control_Position.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.0734 -0.0305 -0.0734	</min>
+		<max>	0.0734 0.1205 0.0734	</max>
+	</boundingBox>
+</JD019_Machine_Gun_ControlTower.visual>

@@ -1,0 +1,7 @@
+<JD023_Director_Type_94_Mod2_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/director/lods/JD023_Director_Type_94_Mod2_lod3	</parent>
+	<extent>	8.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/director/lods/JD023_Director_Type_94_Mod2_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JD023_Director_Type_94_Mod2_lod2.model>
