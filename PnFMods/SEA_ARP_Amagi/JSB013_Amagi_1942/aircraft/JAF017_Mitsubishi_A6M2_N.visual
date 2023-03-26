@@ -101,7 +101,7 @@
 			<primitive>	hullShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane	</identifier>
+					<identifier>	PBSX_Plane	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/aircraft/JAF017_Mitsubishi_A6M2_N.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -115,7 +115,7 @@
 			<primitive>	modShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane	</identifier>
+					<identifier>	PBSX_Plane	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/aircraft/JAF017_Mitsubishi_A6M2_N.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -143,7 +143,7 @@
 			<primitive>	disc_capShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane	</identifier>
+					<identifier>	PBSX_Plane	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/aircraft/JAF017_Mitsubishi_A6M2_N.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -157,7 +157,7 @@
 			<primitive>	float_modShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane1	</identifier>
+					<identifier>	PBSX_Plane1	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/aircraft/JAF017_Mitsubishi_A6M2_N_float.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -171,7 +171,7 @@
 			<primitive>	hull_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBSX_Hull	</identifier>
 					<mfm>	PnFMods/SEA_ARP_Amagi/JSB013_Amagi_1942/aircraft/JAF017_Mitsubishi_A6M2_N_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
